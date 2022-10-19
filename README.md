@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m Gonçalo Fonseca
-- 🌱 I’m currently learning about programing (Full Stack Development)
-- 💞️ I’m looking foward to collaborate on projects
-- 📫 Hit me up on my linkdln!
+Hi there, I’m Gonçalo Fonseca
+I’m currently learning about programing (Full Stack Development)
+I’m looking foward to collaborate on projects
+Hit me up on my linkdln!
 
 
 <!---
