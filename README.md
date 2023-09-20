@@ -20,12 +20,12 @@
 
 ### :man_technologist:About Me :
 
-I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 
 - Hi there, I’m Gonçalo Fonseca.
-- I’m currently learning about programing (Full Stack Web Development).
-- I’m looking foward to collaborate on projects (Front-End.
+- I’m currently developing my skills.
+- I’m looking foward to collaborate on projects (Front-End/backend).
 - :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Gonçalo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-fonseca-269025225/")
 
 ---
